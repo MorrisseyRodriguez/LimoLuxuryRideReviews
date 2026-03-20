@@ -32,7 +32,7 @@ I was a bit unsure at first, but WOW, the service was outstanding. Professional,
 
 I'll be using Limo Luxury Ride for all future needs over Uber or Lyft.`,
     hasImage: true,
-    imageUrl: '/src/Images/unnamed.webp'
+    imageUrl: '/images/unnamed.webp'
   },
   {
     id: 3,
@@ -42,7 +42,7 @@ I'll be using Limo Luxury Ride for all future needs over Uber or Lyft.`,
 
 Would recommend them to anyone.`,
     hasImage: true,
-    imageUrl: '/src/Images/unnamed2.webp'
+    imageUrl: '/images/unnamed2.webp'
   }
 ];
 
